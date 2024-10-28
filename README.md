@@ -41,3 +41,6 @@ Export Reports: Use Tableau’s export options to download visualizations or sum
 # Technical Specifications
 Tableau Version: Compatible with Tableau Desktop 2021.4 or later.
 Data Refresh Schedule: The data is set to update on a weekly basis to provide near-real-time insights.
+
+# Screenshot
+![Sales Overview Screenshot]()
