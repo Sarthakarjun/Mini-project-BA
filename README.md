@@ -43,4 +43,10 @@ Tableau Version: Compatible with Tableau Desktop 2021.4 or later.
 Data Refresh Schedule: The data is set to update on a weekly basis to provide near-real-time insights.
 
 # Screenshot
-![Sales Overview Screenshot]()
+ # 1 .
+ ![Sales Overview Screenshot](https://github.com/Sarthakarjun/Mini-project-BA/blob/main/Ba-Image1.jpg)
+
+ # 2 .
+  ![Sales Overview Screenshot]()
+ 
+ 
