@@ -47,6 +47,6 @@ Data Refresh Schedule: The data is set to update on a weekly basis to provide ne
  ![Sales Overview Screenshot](https://github.com/Sarthakarjun/Mini-project-BA/blob/main/Ba-Image1.jpg)
 
  # 2 .
-  ![Sales Overview Screenshot]()
+  ![Sales Overview Screenshot](https://github.com/Sarthakarjun/Mini-project-BA/blob/main/Ba-Image2.jpg)
  
  
